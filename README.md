@@ -1,4 +1,4 @@
-# SAVAGE Portfolio - Terminal-Inspired Developer Showcase
+# SAVAGE Portfolio - Terminal Developer Showcase
 
 A cutting-edge portfolio website featuring a terminal/cyberpunk aesthetic with interactive elements and a unique developer presentation.
 
